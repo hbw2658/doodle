@@ -15,7 +15,8 @@
     margin: 50px;
     border-radius: 100px;
     text-align: center;
-    transition: transform 150ms ease-in, .35s;
+    transition: transform 400ms ease-in, .4s;
+    overflow: hidden;
 }
 
 
@@ -23,6 +24,7 @@
     background: green;
     height: 200px;
     width: 100px;
+    overflow: hidden;
 }
 
 .first p {
@@ -40,6 +42,7 @@
     overflow: hidden;
     box-shadow: 2px 0px 50px -5px rgba(69,69,69,0.76);
     z-index: 100;
+    overflow: hidden;
 
 }
 
