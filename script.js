@@ -4,7 +4,7 @@ var button = document.querySelector('.fullWidthButton');
 container.addEventListener('touchstart', function(){
     this.classList.remove('first');
     this.classList.add('second');
-    button.style.display = 'block';
+    button.style.display = 'inline';
 })
 
 button.addEventListener('touchstart', function(){
