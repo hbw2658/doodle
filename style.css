@@ -56,12 +56,10 @@
     display: none;
     width: 100%;
     background-color: transparent;
-    height: 100vh;
+    height: 150%;
     border: none;
     margin-top: -250px;
     padding: 0%;
     position: absolute;
-    z-index: 99;
-    transition: none;
-    transform: none;
+    z-index: 0;
 }
