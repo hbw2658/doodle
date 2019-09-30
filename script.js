@@ -4,7 +4,7 @@ var button = document.querySelector('.fullWidthButton');
 container.addEventListener('click', function(){
     this.classList.remove('first');
     this.classList.add('second');
-    button.style.display = 'inline';
+    button.style.display = 'block';
 })
 
 button.addEventListener('click', function(){
