@@ -55,9 +55,8 @@
 .fullWidthButton {
     display: none;
     width: 100%;
-    color: transparent;
-    height: 100vh;
     background-color: transparent;
+    height: 100vh;
     border: none;
     margin-top: -250px;
     padding: 0%;
